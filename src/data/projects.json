@@ -2,7 +2,7 @@
 {
     "id": 1, 
     "title": "Pagina DTejidosSetrata",
-    "mainImage": "/src/assets/Dtejidos.png",
+    "mainImage": "../assets/Dtejidos.png",
     "cardDescription": "Pagina para ver articulos de crochet y comunicarte con el vendedor",
     "description": "Pagina para ver aticulos de crochet y comunicarte con el vendedor. Cuenta con un catalogo de productos, y una seccion de contacto para consultas y pedidos personalizados. ademas de la ubicacion y los dias donde se puede encontrar el vendedor.",
     "technologies": ["React", "JavaScript", "CSS"],
@@ -13,7 +13,7 @@
 {
     "id": 2,
     "title": "SudokuWeb",
-    "mainImage": "/src/assets/Sudoku-Web.png",
+    "mainImage": "../assets/Sudoku-Web.png",
     "cardDescription": "Juego de Sudoku en línea",
     "description": "Pagina para jugar al Sudoku cuenta con diferentes dificultades , pistas, y ademas se puede ir anotando los posibles numeros en cada celda. el juego cuenta con un sistema de guardado y cargado de partidas y el poder configurar los colores de la interfaz como se desee.",
     "technologies": ["JavaScript", "Html"],
@@ -24,7 +24,7 @@
 {
     "id": 3,
     "title": "Organizador de Archivos",
-    "mainImage": "/src/assets/Organizador.png",
+    "mainImage": "../assets/Organizador.png",
     "cardDescription": "Un pequeño script para organizar archivos en carpetas según su tipo.",
     "description": "Un pequeño script en Python que organiza archivos en carpetas según su tipo (imágenes, documentos, videos, etc.) dentro de un directorio en donde se abra el script.",
     "technologies": ["Python"],
@@ -35,7 +35,7 @@
 {
     "id": 4,
     "title": "Página MarPatagónico",
-    "mainImage": "/src/assets/marpatagonico.png",
+    "mainImage": "../assets/marpatagonico.png",
     "cardDescription": "Pagina para un proyecto de tesina de comercio internacional",
     "description": "Este sitio web fue creado para una tesina de comercio internacional, con el objetivo de mostrar la empresa dedicada a la exportación de productos marinos en la región patagónica. La página proporciona información sobre los productos ofrecidos, la historia de la empresa y detalles de contacto para posibles clientes e interesados.",
     "technologies": ["React", "Vite", "JavaScript", "CSS"],
