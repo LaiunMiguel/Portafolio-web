@@ -1,0 +1,46 @@
+[
+{
+    "id": 1, 
+    "title": "Pagina DTejidosSetrata",
+    "mainImage": "/src/assets/Dtejidos.png",
+    "cardDescription": "Pagina para ver articulos de crochet y comunicarte con el vendedor",
+    "description": "Pagina para ver aticulos de crochet y comunicarte con el vendedor. Cuenta con un catalogo de productos, y una seccion de contacto para consultas y pedidos personalizados. ademas de la ubicacion y los dias donde se puede encontrar el vendedor.",
+    "technologies": ["React", "JavaScript", "CSS"],
+    "category": "Web",
+    "MiExperiencia": "Desarrolle esta pagina web para un pequeño negocio local de tejidos a crochet. Fue interesante trabajar en un proyecto real que ayudara a una emprendedora a tener presencia en línea y facilitar la comunicación con sus clientes.",
+    "Hosting": "https://laiunmiguel.github.io/DtejidosPage/"
+},
+{
+    "id": 2,
+    "title": "SudokuWeb",
+    "mainImage": "/src/assets/Sudoku-Web.png",
+    "cardDescription": "Juego de Sudoku en línea",
+    "description": "Pagina para jugar al Sudoku cuenta con diferentes dificultades , pistas, y ademas se puede ir anotando los posibles numeros en cada celda. el juego cuenta con un sistema de guardado y cargado de partidas y el poder configurar los colores de la interfaz como se desee.",
+    "technologies": ["JavaScript", "Html"],
+    "category": "Games",
+    "MiExperiencia": "Fue uno de mis primeros proyectos web, lo desarrolle ya que habia creado un sudoku similar en java, se me ocurrio la idea de pasarlo a una web para que sea mas accesible.",
+    "Hosting": "https://laiunmiguel.github.io/Sudoku_Web/"
+},
+{
+    "id": 3,
+    "title": "Organizador de Archivos",
+    "mainImage": "/src/assets/Organizador.png",
+    "cardDescription": "Un pequeño script para organizar archivos en carpetas según su tipo.",
+    "description": "Un pequeño script en Python que organiza archivos en carpetas según su tipo (imágenes, documentos, videos, etc.) dentro de un directorio en donde se abra el script.",
+    "technologies": ["Python"],
+    "category": "Scripts",
+    "MiExperiencia": "Fue un script de prueba que desarrollé para automatizar la organización de mis archivos en la carpeta de descargas. ya que la tenia siempre desordenada por diferentes tipos de archivos entre la facultad y mis proyectos personales.",
+    "Hosting": "N/A"
+},
+{
+    "id": 4,
+    "title": "Página MarPatagónico",
+    "mainImage": "/src/assets/marpatagonico.png",
+    "cardDescription": "Pagina para un proyecto de tesina de comercio internacional",
+    "description": "Este sitio web fue creado para una tesina de comercio internacional, con el objetivo de mostrar la empresa dedicada a la exportación de productos marinos en la región patagónica. La página proporciona información sobre los productos ofrecidos, la historia de la empresa y detalles de contacto para posibles clientes e interesados.",
+    "technologies": ["React", "Vite", "JavaScript", "CSS"],
+    "category": "Web",
+    "MiExperiencia": "Desarollar esta pagina web fue interesante ya que al tener que simular una empresa real, tuve que investigar sobre paginas de este sector y adaptar el contenido y diseño para que sea atractivo y profesional",
+    "Hosting": "https://marpatagonico.netlify.app/"
+}
+]

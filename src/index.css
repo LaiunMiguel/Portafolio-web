@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-base: oklch(0.98 0.01 270);
+  --color-background: oklch(94.912% 0.00011 271.152);
+  --color-card-background: oklch(0.95 0.03 270);
+  --color-text: oklch(100% 0.00011 271.152);
+  --color-primary: oklch(0.63 0.22 264);
+  --color-secondary: oklch(23.497% 0.09742 267.821);
+  --color-tertiary: oklch(30.782% 0.12609 268.179);
+  --color-accent: oklch(0.80 0.15 200);
+  --color-linkedin: oklch(0.50 0.20 220);
+  --font-sans: "Outfit", sans-serif;
+
+}
+
+@theme {
+  --animate-tilt: tilt 0.6s ease-in-out infinite;
+
+  @keyframes tilt {
+    0%, 100% { transform: rotate(-2deg); }
+    50%      { transform: rotate(2deg); }
+  }
+}
