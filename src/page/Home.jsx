@@ -1,4 +1,3 @@
-import Img1 from '../assets/perfil.webp';
 import ProjectCard from '../component/ProjectCard';
 import ProjectsData from '../data/projects.json';
 
@@ -12,7 +11,7 @@ export default function Home() {
             <h2 className="text-3xl font-semibold mb-4">Hola, soy Miguel Laiun</h2>
             <p className="text-xl">Un desarrollador de software que le gusta crear proyectos que sean funcionales, intuitivos y divertidos . </p>
           </div>
-          <img src={Img1} alt="Foto de perfil" className="w-40 h-40 rounded-full mx-auto" />
+          <img src="/assets/perfil.webp" alt="Foto de perfil" className="w-40 h-40 rounded-full mx-auto" />
         </div>
       </div>
       <h1 className="text-2xl font-bold mb-4">Ve uno de mis ultimos proyectos</h1>
