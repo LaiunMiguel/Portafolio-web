@@ -1,10 +1,10 @@
 export default function Contact() {
   return (
     <section className="max-w-2xl mx-auto mt-12 p-6 bg-white shadow-md border border-gray-100 rounded-lg text-gray-900">
-      <h2 className="text-3xl font-semibold mb-4 text-center">Contact</h2>
+      <h2 className="text-3xl font-semibold mb-4 text-center">Contacto</h2>
       <p className="mb-6 text-center text-gray-600">
-        No dudes en ponerte en contacto conmigo por cualquier duda o consulta, puedes enviarme un correo electrónico a{' '}
-        <a className="text-blue-600 font-medium hover:underline" href="mailto:LaiunMiguel@hotmail.com">LaiunMiguel@hotmail.com</a>.
+        No dudes en ponerte en contacto conmigo por cualquier duda o consulta. Puedes enviarme un correo electrónico a{' '}
+        <a className="text-blue-600 font-medium hover:underline" href="mailto:laiunmiguel@hotmail.com">laiunmiguel@hotmail.com</a>.
       </p>
 
       <div className="flex flex-col gap-3 sm:flex-row sm:justify-center sm:gap-4">

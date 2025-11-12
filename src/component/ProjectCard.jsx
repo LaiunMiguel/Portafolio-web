@@ -15,7 +15,7 @@ export default function ProjectCard({ project }) {
                 <a href={project.id} className="text-blue-500 hover:underline"></a>
                 <p className="mb-2">{project.cardDescription}</p>
                 <ul className="flex flex-wrap gap-2">
-                    <h3>Tecnologias Usadas:</h3>
+                    <h3>Tecnologías usadas:</h3>
                     {project.technologies.map((tech) => (
                         <li key={tech}>
                             <span className="bg-blue-500 text-black-600 px-2 py-1 rounded text-text">{tech}</span>

@@ -28,7 +28,7 @@ export default function ProjectDetail() {
             </a>
         </section>
         <section className="mb-10">
-            <h2 className="text-2xl font-semibold mb-3">Descripcion</h2>
+            <h2 className="text-2xl font-semibold mb-3">Descripción</h2>
             <p className="text-lg leading-relaxed">{project.description}</p>
         </section>
 
